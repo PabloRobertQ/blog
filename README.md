@@ -22,6 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
 Pasos a seguir para configurar Github desde Visual Code
 * Editar archivo y guardar con ctrl S
 * Ver las modificaciones: git status

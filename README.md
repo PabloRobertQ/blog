@@ -22,8 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-Pasos a seguir para configurar git desde Visual Code
+Pasos a seguir para configurar Github desde Visual Code
 * Editar archivo y guardar con ctrl S
-* Ver los cambios con "git status"
-* Añadir al staging con "git add <archivo modificado>"
-* Subir el cambio con un nuevo nombre "git commit <nuevo nombre>"
+* Ver las modificaciones: git status
+* Añadir al staging: git add archivo_modificado
+* Subir el cambio con un nuevo nombre: git commit "nuevo_nombre"
